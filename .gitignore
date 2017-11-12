@@ -1,0 +1,16 @@
+.vs
+
+*.suo
+*.layout
+*.sdf
+*.sln
+*.vcxproj
+*.pdb
+*.lib
+*.exp
+
+Debug/
+Release/
+
+bin/
+obj/
