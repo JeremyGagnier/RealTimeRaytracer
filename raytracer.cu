@@ -1,4 +1,4 @@
-#include "raytracer.h"
+#include "gpu_hook.h"
 
 void find_dist_to_lens(ray_frame* frame)
 {

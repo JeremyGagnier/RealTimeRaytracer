@@ -1,5 +1,5 @@
-#ifndef __raytracer
-#define __raytracer
+#ifndef __gpu_hook
+#define __gpu_hook
 
 #include "cuda_runtime.h"
 #include "camera.h"

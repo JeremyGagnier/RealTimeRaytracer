@@ -23,7 +23,7 @@ void checkErrors() {
     }
 }
 
-int main()
+int kernel_main()
 {
     // Set up inputs --------------------------------------------------------------------------------------------------
     vector cameraPosition = {0.0f, 0.0f, 0.0f};
